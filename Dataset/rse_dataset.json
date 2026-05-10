@@ -1,0 +1,110 @@
+[
+  {
+    "MonthlyDate": "2025-01",
+    "TotalKWh": 429.2,
+    "HeatingKWh": 193.1,
+    "WaterHeatingKWh": 77.3,
+    "AppliancesKWh": 94.4,
+    "LightingKWh": 42.9,
+    "OtherKWh": 21.5
+  },
+  {
+    "MonthlyDate": "2025-02",
+    "TotalKWh": 421.4,
+    "HeatingKWh": 168.6,
+    "WaterHeatingKWh": 75.9,
+    "AppliancesKWh": 92.7,
+    "LightingKWh": 42.1,
+    "OtherKWh": 21.1
+  },
+  {
+    "MonthlyDate": "2025-03",
+    "TotalKWh": 403.2,
+    "HeatingKWh": 121,
+    "WaterHeatingKWh": 72.6,
+    "AppliancesKWh": 88.7,
+    "LightingKWh": 40.3,
+    "OtherKWh": 20.2
+  },
+  {
+    "MonthlyDate": "2025-04",
+    "TotalKWh": 370.5,
+    "HeatingKWh": 74.1,
+    "WaterHeatingKWh": 66.7,
+    "AppliancesKWh": 81.5,
+    "LightingKWh": 37,
+    "OtherKWh": 18.5
+  },
+  {
+    "MonthlyDate": "2025-05",
+    "TotalKWh": 350.1,
+    "HeatingKWh": 52.5,
+    "WaterHeatingKWh": 63,
+    "AppliancesKWh": 77,
+    "LightingKWh": 35,
+    "OtherKWh": 17.5
+  },
+  {
+    "MonthlyDate": "2025-06",
+    "TotalKWh": 353.8,
+    "HeatingKWh": 35.4,
+    "WaterHeatingKWh": 63.7,
+    "AppliancesKWh": 77.8,
+    "LightingKWh": 35.4,
+    "OtherKWh": 17.7
+  },
+  {
+    "MonthlyDate": "2025-07",
+    "TotalKWh": 350.9,
+    "HeatingKWh": 35.1,
+    "WaterHeatingKWh": 63.2,
+    "AppliancesKWh": 77.2,
+    "LightingKWh": 35.1,
+    "OtherKWh": 17.5
+  },
+  {
+    "MonthlyDate": "2025-08",
+    "TotalKWh": 347.6,
+    "HeatingKWh": 34.8,
+    "WaterHeatingKWh": 62.6,
+    "AppliancesKWh": 76.5,
+    "LightingKWh": 34.8,
+    "OtherKWh": 17.4
+  },
+  {
+    "MonthlyDate": "2025-09",
+    "TotalKWh": 383.8,
+    "HeatingKWh": 76.8,
+    "WaterHeatingKWh": 69.1,
+    "AppliancesKWh": 84.4,
+    "LightingKWh": 38.4,
+    "OtherKWh": 19.2
+  },
+  {
+    "MonthlyDate": "2025-10",
+    "TotalKWh": 391.6,
+    "HeatingKWh": 117.5,
+    "WaterHeatingKWh": 70.5,
+    "AppliancesKWh": 86.1,
+    "LightingKWh": 39.2,
+    "OtherKWh": 19.6
+  },
+  {
+    "MonthlyDate": "2025-11",
+    "TotalKWh": 410.2,
+    "HeatingKWh": 164.1,
+    "WaterHeatingKWh": 73.8,
+    "AppliancesKWh": 90.2,
+    "LightingKWh": 41,
+    "OtherKWh": 20.5
+  },
+  {
+    "MonthlyDate": "2025-12",
+    "TotalKWh": 418.8,
+    "HeatingKWh": 188.4,
+    "WaterHeatingKWh": 75.4,
+    "AppliancesKWh": 92.1,
+    "LightingKWh": 41.9,
+    "OtherKWh": 20.9
+  }
+]

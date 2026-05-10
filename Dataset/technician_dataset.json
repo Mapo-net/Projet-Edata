@@ -1,0 +1,3602 @@
+[
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.82
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.491
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.504
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.707
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.573
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.397
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.405
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.106
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.575
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.055
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.683
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.684
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.336
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.668
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.783
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.823
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.735
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.368
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.91
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.536
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.971
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.366
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.511
+  },
+  {
+    "DailyDate": "01/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.408
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.752
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.973
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.886
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.243
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.443
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.313
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.786
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.43
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.918
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.123
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.379
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.342
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.973
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.031
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.413
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 3.409
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.337
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.905
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.679
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.555
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.38
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.453
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.49
+  },
+  {
+    "DailyDate": "02/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.651
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.961
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.703
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.722
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.829
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.437
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.699
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.802
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.05
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.108
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.573
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.737
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.818
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.498
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.295
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 2.73
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.199
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.702
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.483
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.104
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.725
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.316
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.434
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.489
+  },
+  {
+    "DailyDate": "03/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.719
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.979
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.962
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.713
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.376
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.785
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.377
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.657
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.911
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.884
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.262
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.979
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.819
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.881
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.927
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.41
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.197
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.369
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.725
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.207
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.08
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.46
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.459
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.712
+  },
+  {
+    "DailyDate": "04/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.518
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.463
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.061
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 2.978
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.442
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.832
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.902
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.246
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.5
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.48
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.629
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.777
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.441
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.207
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.533
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.859
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.205
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.13
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.457
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.913
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.772
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.152
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.82
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.17
+  },
+  {
+    "DailyDate": "05/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.732
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.654
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.668
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.99
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.711
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.147
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.423
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.536
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.565
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.412
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.598
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.623
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.425
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.137
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.416
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.967
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.247
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.272
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.71
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.619
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.13
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.007
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.23
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.357
+  },
+  {
+    "DailyDate": "06/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.859
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.584
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.238
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.504
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.678
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.371
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.41
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.33
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.309
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.978
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.987
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.899
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.759
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.079
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.067
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.482
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.479
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.284
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.298
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.339
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.586
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.56
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.536
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.634
+  },
+  {
+    "DailyDate": "07/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.019
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.916
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.063
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.427
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.771
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.927
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.444
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.202
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.67
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.798
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.547
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.614
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.83
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.376
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.34
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.574
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.475
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.602
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.319
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.522
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.55
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.722
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.537
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.962
+  },
+  {
+    "DailyDate": "08/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.015
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.963
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.609
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.592
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.031
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.947
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.689
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.455
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.224
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.032
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.614
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.569
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.771
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.488
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.256
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.334
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.794
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.797
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.47
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.91
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.149
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.746
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.795
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.079
+  },
+  {
+    "DailyDate": "09/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.596
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.245
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.68
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.453
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.183
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.369
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.709
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.51
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.301
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.08
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.759
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.403
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.21
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.092
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.952
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.601
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.366
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.465
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.476
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.396
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.214
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.263
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.033
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.917
+  },
+  {
+    "DailyDate": "10/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.238
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.036
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.877
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.266
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.458
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.635
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.277
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.535
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.251
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.586
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.437
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.334
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.119
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.423
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.448
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.742
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.71
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.694
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.635
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.509
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.128
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 2.272
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.437
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.591
+  },
+  {
+    "DailyDate": "11/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.548
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.02
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.261
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.876
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.532
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.595
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.647
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.411
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.622
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.031
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.452
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.749
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.659
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.726
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.547
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.805
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.468
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.666
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.948
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.358
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.636
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.221
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.315
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.994
+  },
+  {
+    "DailyDate": "12/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.929
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.763
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.814
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.391
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.815
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.254
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.969
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.58
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.783
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.211
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.653
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.448
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.405
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.838
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.127
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.463
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.583
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.018
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.376
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.901
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.209
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.549
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.573
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.255
+  },
+  {
+    "DailyDate": "13/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.587
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.641
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.251
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.438
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.548
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.682
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.571
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.299
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.267
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.155
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.287
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.971
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.75
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.809
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.922
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.539
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.116
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.094
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.545
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.65
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.562
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.379
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.202
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.454
+  },
+  {
+    "DailyDate": "14/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.97
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.051
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.556
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.197
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.435
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.926
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.845
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.855
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.379
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.907
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.371
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 3.004
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.661
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 2.271
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.345
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.823
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.075
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.114
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.73
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.997
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.795
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.812
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.839
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.91
+  },
+  {
+    "DailyDate": "15/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.611
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.42
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.648
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.742
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.887
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.338
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.494
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.829
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.349
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.683
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.19
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.756
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.502
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.662
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.595
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.863
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.459
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.147
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.437
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.494
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.456
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.449
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.789
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.015
+  },
+  {
+    "DailyDate": "16/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.665
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.75
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.616
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.468
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.5
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.353
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.736
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.984
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.207
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.439
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.989
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.409
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.452
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.375
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.531
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.645
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.458
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.132
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.49
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.992
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.47
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.173
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.039
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.419
+  },
+  {
+    "DailyDate": "17/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.641
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.67
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.809
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.69
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.537
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.593
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.262
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.027
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.458
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.667
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.088
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.662
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.946
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.474
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.141
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.346
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.833
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.939
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.431
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.801
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.402
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.658
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.221
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.481
+  },
+  {
+    "DailyDate": "18/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.483
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.691
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.61
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.562
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.97
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.694
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.482
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.384
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.003
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.792
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.923
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.668
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.71
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.493
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.407
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.744
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.42
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.545
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.546
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.488
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.772
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.612
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.393
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.95
+  },
+  {
+    "DailyDate": "19/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.723
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.229
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 2.049
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.997
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.6
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.182
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.296
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.541
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.749
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.377
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.548
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.935
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.498
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.378
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.975
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.539
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.669
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.935
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.423
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.718
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.49
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.848
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.418
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.477
+  },
+  {
+    "DailyDate": "20/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.973
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.13
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.284
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.536
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.381
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.477
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.939
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.318
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.693
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.668
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.178
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.452
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.032
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 3.21
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.416
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.243
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.578
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.71
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.369
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.022
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.679
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.318
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.503
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.458
+  },
+  {
+    "DailyDate": "21/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.926
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.31
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.412
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.473
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.047
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.422
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.252
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.493
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.455
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.906
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.575
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.899
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.082
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.073
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.807
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.736
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.61
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.374
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.354
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.198
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.63
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.253
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.258
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.726
+  },
+  {
+    "DailyDate": "22/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.404
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.031
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.391
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.497
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.432
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.817
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.92
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.006
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.537
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.392
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.548
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.034
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.759
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.837
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.57
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.906
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.946
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.801
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.968
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.783
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.807
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.233
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.084
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.084
+  },
+  {
+    "DailyDate": "23/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.041
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.392
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.406
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.88
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.672
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.271
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.829
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.429
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.912
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.76
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.415
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.471
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.872
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.04
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.607
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.425
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.022
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.227
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.538
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.463
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.251
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.587
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.483
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.626
+  },
+  {
+    "DailyDate": "24/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.141
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.312
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.434
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.582
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.576
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.019
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.67
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.095
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.473
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.164
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.257
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.314
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.232
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.427
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.074
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.806
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.778
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.596
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.197
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.068
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 2.461
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.009
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.417
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.723
+  },
+  {
+    "DailyDate": "25/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.288
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.365
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 3.331
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.342
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.225
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.392
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 1.017
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.785
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.452
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.289
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.868
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 0.8
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.515
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.7
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 2.386
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.841
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.028
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.921
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.078
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.831
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.642
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.899
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.913
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.605
+  },
+  {
+    "DailyDate": "26/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.393
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.083
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 0.748
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.43
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.994
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.534
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.865
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.47
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 0.595
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.998
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.136
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.332
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 0.913
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.803
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 0.596
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 1.323
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.285
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.756
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.725
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.921
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.418
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.037
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.652
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.013
+  },
+  {
+    "DailyDate": "27/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.554
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.228
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.014
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.572
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.619
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.784
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.948
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.435
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.487
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.401
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 0.408
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.334
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.077
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.41
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.428
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.955
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.665
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.672
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 1.489
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.619
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 1.45
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.652
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.454
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 0.746
+  },
+  {
+    "DailyDate": "28/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 3.412
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 1.067
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.361
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 0.741
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 0.625
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 1.152
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.502
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 1.048
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.305
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 0.609
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.031
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.355
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.106
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 1.094
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.126
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.423
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 1.278
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 0.989
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.594
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 0.852
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.635
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 1.086
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 0.783
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.061
+  },
+  {
+    "DailyDate": "29/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 0.898
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "00:00:00",
+    "ElectricityKWh": 0.688
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "01:00:00",
+    "ElectricityKWh": 1.05
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "02:00:00",
+    "ElectricityKWh": 1.342
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "03:00:00",
+    "ElectricityKWh": 1.3
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "04:00:00",
+    "ElectricityKWh": 0.979
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "05:00:00",
+    "ElectricityKWh": 0.545
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "06:00:00",
+    "ElectricityKWh": 0.882
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "07:00:00",
+    "ElectricityKWh": 1.286
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "08:00:00",
+    "ElectricityKWh": 1.312
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "09:00:00",
+    "ElectricityKWh": 1.433
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "10:00:00",
+    "ElectricityKWh": 1.186
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "11:00:00",
+    "ElectricityKWh": 1.471
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "12:00:00",
+    "ElectricityKWh": 0.411
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "13:00:00",
+    "ElectricityKWh": 1.136
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "14:00:00",
+    "ElectricityKWh": 0.907
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "15:00:00",
+    "ElectricityKWh": 0.613
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "16:00:00",
+    "ElectricityKWh": 1.212
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "17:00:00",
+    "ElectricityKWh": 0.524
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "18:00:00",
+    "ElectricityKWh": 1.087
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "19:00:00",
+    "ElectricityKWh": 0.78
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "20:00:00",
+    "ElectricityKWh": 0.618
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "21:00:00",
+    "ElectricityKWh": 1.389
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "22:00:00",
+    "ElectricityKWh": 1.073
+  },
+  {
+    "DailyDate": "30/01/2025",
+    "HourlyDate": "23:00:00",
+    "ElectricityKWh": 1.306
+  }
+]
